@@ -1,4 +1,4 @@
-package arrayProblems;
+package arrayProblems.logicalBuilding;
 
 import java.util.*;
 
