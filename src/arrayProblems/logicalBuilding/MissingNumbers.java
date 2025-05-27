@@ -14,7 +14,7 @@ public class MissingNumbers {
 
         int[] arr = { 9, 6, 4, 2, 3, 5, 7, 0, 1 };
 
-        System.out.print("The zeroes are moved of array " + Arrays.toString(arr) + "  is : " + missingNumberByXor(arr));
+        System.out.print("The missing number of array " + Arrays.toString(arr) + "  is : " + missingNumberByXor(arr));
     }
 
     /**
